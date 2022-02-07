@@ -1,0 +1,29 @@
+
+/* nav */
+nav{
+    padding: 1rem 0;
+}
+
+
+
+
+nav .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .brand{
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+
+nav .nav-menu{
+    display: flex;
+    grid-gap:2rem ;
+    align-items: center;
+}
+
+header{
+    background: url(src/img/bg.png) no-repeat center;
+}
